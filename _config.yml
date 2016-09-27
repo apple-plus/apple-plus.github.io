@@ -1,0 +1,6 @@
+permalink: /:title
+
+title: apple-plus.github.io
+url: http://apple-plus.github.io
+feed: /atom.xml
+author_info: <a href="apple-plus.github.io">Ericec Chou</a>
